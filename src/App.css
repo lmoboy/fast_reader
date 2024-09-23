@@ -1,5 +1,13 @@
 .App {
-  text-align: center;
+  background-color: #282c34;
+  color: burlywood;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  align-content: center;
 }
 
 .App-logo {
